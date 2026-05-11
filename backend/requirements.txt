@@ -1,0 +1,11 @@
+flask
+flask-cors
+SpeechRecognition
+gtts
+langdetect
+translate
+pandas
+google-cloud-speech
+pyttsx3
+sounddevice
+soundfile
